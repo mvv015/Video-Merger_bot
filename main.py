@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005 | @PredatorHackerzZ
+# (c) @HEROKU2005 |
 # This is very simple Telegram Videos Merge Bot.
 # Coded by a Noob Coder.
 # Don't Laugh seeing these codes.
@@ -56,9 +56,9 @@ async def start_handler(bot: Client, m: Message):
         quote=True,
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("👥 𝐒𝐨𝐮𝐫𝐜𝐞 👥", url="https://GitHub.com/PredatorHackerzZ/Video-Merger_Bot")],
-                [InlineKeyboardButton("⭕ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 ⭕", url="https://t.me/TeleRoid14"),
-                 InlineKeyboardButton("⭕ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ⭕", url="https://t.me/TeleRoidGroup")],
+                [InlineKeyboardButton("👥 𝐒𝐨𝐮𝐫𝐜𝐞 👥", url="https://GitHub.com")],
+                [InlineKeyboardButton("⭕ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 ⭕", url="https://t.me/TeluguCartoonIndia"),
+                 InlineKeyboardButton("⭕ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ⭕", url="https://t.me/TeluguCartoonIndia")],
                 [InlineKeyboardButton("🛠 𝐒𝐞𝐭𝐭𝐢𝐧𝐠𝐬 🛠", callback_data="openSettings")]
             ]
         )
